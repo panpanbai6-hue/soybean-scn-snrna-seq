@@ -112,7 +112,7 @@ for (i in c(1:10, 13:16)) {
     scn.all[[i]],
     subset = nCount_RNA < 25000 &
       nFeature_RNA > 450 &
-      nFeature_RNA < 10000
+      nFeature_RNA < 11000
   )
 }
 
