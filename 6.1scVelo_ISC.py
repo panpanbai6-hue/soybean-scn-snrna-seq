@@ -1,5 +1,5 @@
 ###############################################################################
-# Step 6.1: scVelo analysis for vascular and syncytium-related cells at 1 dpi
+# scVelo analysis for vascular and syncytium-related cells at 1 dpi
 ###############################################################################
 
 import os
