@@ -1,5 +1,5 @@
 ###############################################################################
-## Step 2: Integration and clustering using Harmony
+## Integration and clustering using Harmony
 ###############################################################################
 
 rm(list = ls())
