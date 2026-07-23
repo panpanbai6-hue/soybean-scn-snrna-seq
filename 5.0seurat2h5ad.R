@@ -1,6 +1,5 @@
 ###############################################################################
-## Step 5: Prepare transition objects and export soybean count matrix
-##         for Procambium-to-Syncytium analysis
+##transition objects and export soybean count matrix
 ###############################################################################
 
 rm(list = ls())
