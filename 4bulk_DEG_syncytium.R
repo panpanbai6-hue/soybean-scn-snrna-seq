@@ -1,5 +1,5 @@
 ###############################################################################
-## Step 4: Pseudo-bulk differential expression analysis for Syncytium
+## Pseudo-bulk differential expression analysis for Syncytium
 ###############################################################################
 
 rm(list = ls())
