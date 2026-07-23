@@ -1,5 +1,5 @@
 ###############################################################################
-## Step 6: Monocle3 trajectory analysis from Procambium to Syncytium
+## Monocle3 trajectory analysis from Procambium to Syncytium
 ##         and syncytium-related cluster correlation analysis
 ###############################################################################
 
