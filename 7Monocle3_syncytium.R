@@ -1,5 +1,5 @@
 ###############################################################################
-## Step 7: Reconstruction of syncytium developmental trajectories
+## Reconstruction of syncytium developmental trajectories
 ###############################################################################
 
 rm(list = ls())
