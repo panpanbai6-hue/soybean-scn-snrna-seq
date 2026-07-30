@@ -37,35 +37,35 @@ DefaultAssay(scn_combine_filter) <- "RNA"
 ###############################################################################
 
 cols <- c(
-  "#009933", # 0 cortex
-  "#fb90b7", # 1 epidermis
-  "#f26500", # 2 xylem
-  "#FF007F", # 3 epidermis
-  "#A0522D", # 4 meristem
-  "#215b63", # 5 pericycle
-  "#EE7785", # 6 epidermis
-  "#964B00", # 7 meristem
-  "#9370DB", # 8 endodermis
-  "#6a9c78", # 9 pericycle
-  "#c2cfd8", # 10 root hair
-  "#9B8281", # 11 xylem
-  "#8C3E1C", # 12 meristem
-  "#8ee4e4", # 13 phloem
-  "#4A672E", # 14 pericycle
-  "#00A86B", # 15 cortex
-  "#FF7F50", # 16 endodermis
-  "#3d6cb9", # 17 syncytium
-  "#7a57d1", # 18 endodermis
-  "#dddddd", # 19 root hair
-  "#FF9900", # 20 xylem
-  "#ff4273", # 21 procambium
-  "#FFA07A", # 22 scn
-  "#1fffff", # 23 phloem
-  "#556B2F", # 24 pericycle
-  "#00c9b1", # 25 cortex
-  "#ff9898", # 26 epidermis
-  "#FFB6C1", # 27 scn
-  "#a3a1a1"  # 28 root hair
+  "#009933",
+  "#fb90b7",
+  "#f26500",
+  "#FF007F",
+  "#A0522D",
+  "#215b63",
+  "#EE7785",
+  "#964B00",
+  "#9370DB",
+  "#6a9c78",
+  "#c2cfd8",
+  "#9B8281",
+  "#8C3E1C",
+  "#8ee4e4",
+  "#4A672E",
+  "#00A86B",
+  "#FF7F50",
+  "#3d6cb9",
+  "#7a57d1",
+  "#dddddd",
+  "#FF9900",
+  "#ff4273", 
+  "#FFA07A",
+  "#1fffff",
+  "#556B2F",
+  "#00c9b1",
+  "#ff9898",
+  "#FFB6C1",
+  "#a3a1a1"
 )
 
 names(cols) <- as.character(0:28)
